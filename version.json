@@ -1,9 +1,10 @@
 {
- "version": "1.6.2",
- "downloadUrl": "",
- "panUrl": "",
- "releaseDate": "2026-06-27",
- "releaseNotes": "(ↀωↀ)✧新增字号调节按钮、纯文本粘贴功能，新增截图功能、格式刷、高光笔功能，新增导出Word文档，支持Ctrl+滚轮 缩放图片、Emoji黑边修复、多项界面优化",
- "announcement": "",
- "announcementUrl": ""
+ "version": "1.6.3",
+ "downloadUrl": "https://github.com/SHANFENG-0021/feline-note-updates/releases/download/v1.6.3/FelineNote-v1.6.3.exe",
+ "baiduPanUrl": "https://pan.baidu.com/s/1nYt2uBXOwrH_P0rEXB0eeg?pwd=0021",
+ "kuakePanUrl": "https://pan.quark.cn/s/a3d099fc5aaa",
+ "releaseDate": "2026-06-30",
+ "releaseNotes": "新增字号调节按钮、纯文本粘贴功能\n新增截图功能、格式刷、高光笔功能\n新增导出Word文档，支持Ctrl+滚轮缩放图片～\n更多细节优化等你发现(ↀωↀ)✧",
+ "announcement": "FelineNote v1.6.3 来啦！截图、格式刷、高光笔、Word导出都安排上了✧\n⚠️ 温馨提醒：本次更新建议全新安装，不要直接覆盖旧版，避免不必要的冲突喵～",
+ "announcementUrl": "https://space.bilibili.com/15016942"
 }
